@@ -1,1 +1,1 @@
-print('Olá, cara!')
+print('Olá, mundo!')
