@@ -9,4 +9,4 @@
 
 ---
 
-_Obs: Se algum arquivo estiver corrompido, vazio ou estiver muito esquisitão, favor entrar em contato. 🖖_
+_Obs: Se algum arquivo estiver corrompido, vazio ou estiver muito esquisitão, favor entrar em contato._
